@@ -401,7 +401,7 @@ This makes it easier to demonstrate the system during development and technical 
 Clone the repository:
 
 ```bash
-git clone https://github.com/pavanbhatkar1/agentic-rag-se-qa.git
+git clone https://github.com/AkshayBavaskar007/Agentic-RAG-SE-QA
 cd agentic-rag-se-qa
 ```
 
